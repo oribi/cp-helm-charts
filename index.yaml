@@ -3,7 +3,7 @@ entries:
   cp-helm-charts:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-06-23T11:02:51.206324+03:00"
+    created: "2022-06-23T11:08:37.113282+03:00"
     dependencies:
     - condition: cp-kafka.enabled
       name: cp-kafka
@@ -34,14 +34,14 @@ entries:
       repository: file://./charts/cp-control-center
       version: 0.1.0
     description: A Helm chart for Confluent Platform Community Edition
-    digest: 38a8f4d6e703d4d920ce8e6dd417c6b2ef52de6c8c061ef05b22c3ad127045d3
+    digest: 9afb2552e29c7f341eebc9ea4ef3b3885aaad095abb714586bcefb28c22c1c12
     name: cp-helm-charts
     urls:
     - https://oribi.github.io/cp-helm-charts/cp-helm-charts-0.6.2.tgz
     version: 0.6.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-06-23T11:02:51.224439+03:00"
+    created: "2022-06-23T11:08:37.130384+03:00"
     dependencies:
     - condition: cp-kafka.enabled
       name: cp-kafka
@@ -79,7 +79,7 @@ entries:
     version: 0.6.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-06-23T11:02:51.221078+03:00"
+    created: "2022-06-23T11:08:37.127791+03:00"
     dependencies:
     - condition: cp-kafka.enabled
       name: cp-kafka
@@ -117,7 +117,7 @@ entries:
     version: 0.6.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-06-23T11:02:51.21836+03:00"
+    created: "2022-06-23T11:08:37.125056+03:00"
     dependencies:
     - condition: cp-kafka.enabled
       name: cp-kafka
@@ -155,7 +155,7 @@ entries:
     version: 0.5.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-06-23T11:02:51.215107+03:00"
+    created: "2022-06-23T11:08:37.121693+03:00"
     dependencies:
     - condition: cp-kafka.enabled
       name: cp-kafka
@@ -193,7 +193,7 @@ entries:
     version: 0.4.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-06-23T11:02:51.212286+03:00"
+    created: "2022-06-23T11:08:37.119108+03:00"
     dependencies:
     - condition: cp-kafka.enabled
       name: cp-kafka
@@ -231,7 +231,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-06-23T11:02:51.20966+03:00"
+    created: "2022-06-23T11:08:37.116492+03:00"
     dependencies:
     - condition: cp-kafka.enabled
       name: cp-kafka
@@ -263,4 +263,4 @@ entries:
     urls:
     - https://oribi.github.io/cp-helm-charts/docs/cp-helm-charts-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-23T11:02:51.203091+03:00"
+generated: "2022-06-23T11:08:37.109941+03:00"
